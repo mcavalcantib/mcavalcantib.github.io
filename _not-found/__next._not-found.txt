@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
 2:I[39756,["https://mcavalcantib.github.io/_next/static/chunks/ff1a16fafef87110.js","https://mcavalcantib.github.io/_next/static/chunks/c0ddd4e0cb2bdbe0.js"],"default"]
 3:I[37457,["https://mcavalcantib.github.io/_next/static/chunks/ff1a16fafef87110.js","https://mcavalcantib.github.io/_next/static/chunks/c0ddd4e0cb2bdbe0.js"],"default"]
-0:{"buildId":"9uHl_Nc6BvgLjOfxAvgco","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"5CxYfSnxyc8ffrSxnYVfF","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
