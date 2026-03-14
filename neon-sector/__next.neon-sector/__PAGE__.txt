@@ -1,0 +1,11 @@
+1:"$Sreact.fragment"
+2:I[52910,["/_next/static/chunks/81b51ec1d5b8aa29.js"],"NeonNav"]
+3:I[93338,["/_next/static/chunks/81b51ec1d5b8aa29.js"],"Hero"]
+4:I[66179,["/_next/static/chunks/81b51ec1d5b8aa29.js"],"GameFeatures"]
+5:I[11553,["/_next/static/chunks/81b51ec1d5b8aa29.js"],"CharacterShowcase"]
+6:I[61136,["/_next/static/chunks/81b51ec1d5b8aa29.js"],"WorldLore"]
+7:I[21184,["/_next/static/chunks/81b51ec1d5b8aa29.js"],"PreOrderCTA"]
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/c0ddd4e0cb2bdbe0.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+0:{"buildId":"_YHMCGPzkKRFXLfiFnZYe","rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","main",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{}],["$","section",null,{"id":"characters","children":["$","$L5",null,{}]}],["$","section",null,{"id":"lore","children":["$","$L6",null,{}]}],["$","$L7",null,{}]]}]],[["$","script","script-0",{"src":"/_next/static/chunks/81b51ec1d5b8aa29.js","async":true}]],["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]]}],"loading":null,"isPartial":false}
+a:null
