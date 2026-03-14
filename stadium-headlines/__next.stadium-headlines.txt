@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/c0ddd4e0cb2bdbe0.js"],"default"]
-3:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/c0ddd4e0cb2bdbe0.js"],"default"]
-:HL["/_next/static/chunks/6a2453cb17a03f29.css","style"]
-0:{"buildId":"_YHMCGPzkKRFXLfiFnZYe","rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/6a2453cb17a03f29.css","precedence":"next"}]],["$","div",null,{"className":"stadium-headlines min-h-screen bg-[var(--stadium-charcoal)] font-sans text-[var(--stadium-white)]","children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]}]]}],"loading":null,"isPartial":false}
+2:I[39756,["https://mcavalcantib.github.io/_next/static/chunks/ff1a16fafef87110.js","https://mcavalcantib.github.io/_next/static/chunks/c0ddd4e0cb2bdbe0.js"],"default"]
+3:I[37457,["https://mcavalcantib.github.io/_next/static/chunks/ff1a16fafef87110.js","https://mcavalcantib.github.io/_next/static/chunks/c0ddd4e0cb2bdbe0.js"],"default"]
+:HL["https://mcavalcantib.github.io/_next/static/chunks/6a2453cb17a03f29.css","style"]
+0:{"buildId":"9uHl_Nc6BvgLjOfxAvgco","rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"https://mcavalcantib.github.io/_next/static/chunks/6a2453cb17a03f29.css","precedence":"next"}]],["$","div",null,{"className":"stadium-headlines min-h-screen bg-[var(--stadium-charcoal)] font-sans text-[var(--stadium-white)]","children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]}]]}],"loading":null,"isPartial":false}
